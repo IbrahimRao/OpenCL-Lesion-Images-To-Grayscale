@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (TestC.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.c
+C:\Users\lenovo\Desktop\21I-2958_H_A3\TestC\stb_image_write.h(796,33): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [49]'
+  (compiling source file 'Main.c')
+  
+C:\Users\lenovo\Desktop\21I-2958_H_A3\TestC\stb_image_write.h(796,33): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+  (compiling source file 'Main.c')
+  
+C:\Users\lenovo\Desktop\21I-2958_H_A3\TestC\stb_image_write.h(796,88): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+  (compiling source file 'Main.c')
+  
+C:\Users\lenovo\Desktop\21I-2958_H_A3\TestC\stb_image_write.h(796,88): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+  (compiling source file 'Main.c')
+  
+  TestC.vcxproj -> C:\Users\lenovo\Desktop\21I-2958_H_A3\x64\Debug\21I-2958_H_A3.exe
