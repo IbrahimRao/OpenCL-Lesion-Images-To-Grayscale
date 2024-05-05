@@ -46,3 +46,17 @@ This repository contains C code for converting RGB images to grayscale using Ope
 
 4. **Customization (Optional):**
    - Modify the code according to your requirements, such as handling different image formats or implementing additional image processing functionalities.
+
+
+## Input Image
+
+---
+
+![ISIC_1092675](https://github.com/IbrahimRao/OpenCL-Lesion-Images-To-Grayscale/assets/66884608/cd0d17b8-8af9-4e35-a532-bc0c903a99c0)
+
+
+## Output Image
+
+---
+
+![ISIC_1092675](https://github.com/IbrahimRao/OpenCL-Lesion-Images-To-Grayscale/assets/66884608/a1b553c5-ac18-4e1c-bf63-e8889d3487fb)
